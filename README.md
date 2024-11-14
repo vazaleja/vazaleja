@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### Tools 🛠️ 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!--
 **vazaleja/vazaleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
