@@ -1,6 +1,6 @@
 
 ### Tools 🛠️ 
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg)
+![Python](https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg)
 <!--
 **vazaleja/vazaleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
